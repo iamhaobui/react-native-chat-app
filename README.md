@@ -1,4 +1,4 @@
-- React-native chat applcation
+- React-native chat application
 
 # Run app
 
